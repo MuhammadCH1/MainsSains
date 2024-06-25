@@ -4,23 +4,23 @@
 url: "https://coffeebank.github.io"
 baseurl: "/moonrise"
 siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+siteYear: 2024
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
 
 # Set basic server info
-serverName: Moonrise MC
+serverName: MainsSains MC
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverIP: sainsmc.mevichost.com:25565
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/fTDY85t7Kg
+discordServerID: 1137363595953459251
+discordChannelID: 1188423620935036988
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
